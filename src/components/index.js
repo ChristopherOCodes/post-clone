@@ -1,0 +1,9 @@
+export { AppContainer } from "./styles.js";
+export { NavbarComp } from "./Navbar.js";
+export { Page } from "./styles.js";
+export { Section01Comp } from "./Homepage/Section01";
+export { Section01Trans } from "./styles.js";
+export { Section02Comp } from "./Homepage/Section02";
+export { Section03Comp } from "./Homepage/Section03";
+export { Section04Comp } from "./Homepage/Section04";
+export { FooterComp } from "./Footer.js";
